@@ -1,3 +1,9 @@
+//bootstrap css
+import './bootstrap/css/font-awesome-5.8.1.css';
+import './bootstrap/css/bootstrap.css';
+import './bootstrap/css/mdb.css';
+import './bootstrap/css/style.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
